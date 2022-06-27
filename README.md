@@ -14,4 +14,4 @@ Just paste in the Warcraft Logs report URL or the report ID!
 - [Warcraft Logs](https://classic.warcraftlogs.com/) for letting me use their images
 - Kalon for the report ID parsing
 
-Check out [Priest](https://discorg.gg/priestclassic) and [Shadow Priest](https://discord.gg/classicshadow) discords!
+Check out [Priest](https://discord.gg/priestclassic) and [Shadow Priest](https://discord.gg/KN2aGrTpQJ) discords!
