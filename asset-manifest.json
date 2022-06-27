@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/sptool/static/js/main.48533e5d.js",
+    "main.js": "/sptool/static/js/main.feebc346.js",
     "index.html": "/sptool/index.html",
-    "main.48533e5d.js.map": "/sptool/static/js/main.48533e5d.js.map"
+    "main.feebc346.js.map": "/sptool/static/js/main.feebc346.js.map"
   },
   "entrypoints": [
-    "static/js/main.48533e5d.js"
+    "static/js/main.feebc346.js"
   ]
 }
