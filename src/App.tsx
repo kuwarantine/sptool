@@ -83,7 +83,7 @@ export function App() {
             <Text>
               {"v"+VERSION+" — "}
               <Link href={SOURCE_LINK} target="_blank" _hover={{textDecoration: "none", color: "#4299E1"}}>
-                <Image src="/github.png" display="inline" height="1em"/>
+                <Image src="./github.png" display="inline" height="1em"/>
                 {" GitHub"}
               </Link>
               {" — Made by Kuwarantine-Firemaw"}
